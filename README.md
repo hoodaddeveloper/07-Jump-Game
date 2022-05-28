@@ -1,2 +1,2 @@
 # Jump-Game
-My first JavaScript project in 2021. It was a jumping game like the same in Google Chrome.
+My first JavaScript Project in 2021. It was a Jumping Game like the same in Google Chrome.
